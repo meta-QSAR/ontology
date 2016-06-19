@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/ontologies/2016/2/untitled-ontology-193"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     ontologyIRI="http://www.semanticweb.org/ontologies/2016/2/untitled-ontology-193">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#OWLClass_0180eaaf_be2e_4b44_a42d_58011b1f4266"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_2696ef9f_7ad0_45f1_8d6c_e69750624afa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_388df00e_1495_4fef_87d1_746917b1d79e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7107a76f_a89c_4e7c_9545_8de10c57b7e9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7594e5a0_762c_425d_9c73_e3a70938620c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_75bc6e49_c8ca_4f8b_8ac7_4e53f0ed6cb8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7902dc79_c0df_41aa_8626_3788f31a3877"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7a533afe_6aef_48b4_a1a0_cb38fedf43d5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_81cda4fa_0156_4d91_b461_70d5f0494dc7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_832dba85_aaed_4595_8d7f_1fdd665afbf4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_8b0b2737_12bf_4a22_9923_08266b6b809b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_8fcad5ec_f760_44ae_a8e2_56b5b742b7a0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_a5d454f3_0286_47cc_a33c_6005e7a70071"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_ad4c8132_ec4c_42d0_897a_e6029d3f48df"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_bc03c273_1a1a_41d5_9b2d_36a3bee256b5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c02914d5_cf21_4f34_b65a_5df40357712d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c8600e09_0488_44d6_833c_8215ac669682"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c9f82345_a3c9_4d98_bf25_d5b615fb9260"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_ca07968b_88a2_4e73_8a6b_e2c2238bcee2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_ca159d1a_65c2_40e8_9ac3_1cf620cf8635"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_cf44b75a_de6a_46dd_a2c3_23bece69ae2b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_e308e3c0_4517_4f4b_b202_d925e827e817"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_eab96c5d_407c_4b04_bb76_1e149dc50f97"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_f4ae899d_baed_4cf1_921d_ce2488db520e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_f72cb472_5e91_4a77_802e_5c9cf16e704b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_fbeb45f3_3032_439a_9454_a3a6290bbf7d"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_edaf1ddc_346b_467c_990e_794e6af20324"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_1c17ad10_9e8a_4401_887a_929939b80f56"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_41635261_6479_4fad_baf3_55e8a5e4f648"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_6549f865_6e48_4d60_9d2d_1125ec9d9449"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_6caee34b_b1df_4df6_8d7c_f8a2c7f53646"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e9543b9_89d5_45d5_b238_ab0121f09e79"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e7fc6be_5db5_4dd9_a8f2_f2ff35580537"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5a9a75b_f5a4_4b25_8f36_81f468921536"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_dd628eca_6390_4b5c_ad68_57c4705b1a43"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_e53ac716_8b30_4256_889f_27f243211dd7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_f4e980a9_ef11_433f_9b24_6bac7462c5ab"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_da9136f8_e9ca_4e60_b456_b93a72995dfd"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0180eaaf_be2e_4b44_a42d_58011b1f4266"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <Class IRI="#OWLClass_75bc6e49_c8ca_4f8b_8ac7_4e53f0ed6cb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_2696ef9f_7ad0_45f1_8d6c_e69750624afa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_c8600e09_0488_44d6_833c_8215ac669682"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_e308e3c0_4517_4f4b_b202_d925e827e817"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+        <Class IRI="#OWLClass_c9f82345_a3c9_4d98_bf25_d5b615fb9260"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_2696ef9f_7ad0_45f1_8d6c_e69750624afa"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_388df00e_1495_4fef_87d1_746917b1d79e"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7107a76f_a89c_4e7c_9545_8de10c57b7e9"/>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7594e5a0_762c_425d_9c73_e3a70938620c"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7902dc79_c0df_41aa_8626_3788f31a3877"/>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7a533afe_6aef_48b4_a1a0_cb38fedf43d5"/>
+        <Class IRI="#OWLClass_81cda4fa_0156_4d91_b461_70d5f0494dc7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_81cda4fa_0156_4d91_b461_70d5f0494dc7"/>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_832dba85_aaed_4595_8d7f_1fdd665afbf4"/>
+        <Class IRI="#OWLClass_ca07968b_88a2_4e73_8a6b_e2c2238bcee2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8b0b2737_12bf_4a22_9923_08266b6b809b"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8fcad5ec_f760_44ae_a8e2_56b5b742b7a0"/>
+        <Class IRI="#OWLClass_81cda4fa_0156_4d91_b461_70d5f0494dc7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a5d454f3_0286_47cc_a33c_6005e7a70071"/>
+        <Class IRI="#OWLClass_ca07968b_88a2_4e73_8a6b_e2c2238bcee2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_ad4c8132_ec4c_42d0_897a_e6029d3f48df"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_bc03c273_1a1a_41d5_9b2d_36a3bee256b5"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c02914d5_cf21_4f34_b65a_5df40357712d"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c8600e09_0488_44d6_833c_8215ac669682"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_ca159d1a_65c2_40e8_9ac3_1cf620cf8635"/>
+        <Class IRI="#OWLClass_75bc6e49_c8ca_4f8b_8ac7_4e53f0ed6cb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_ca159d1a_65c2_40e8_9ac3_1cf620cf8635"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a"/>
+            <Class IRI="#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_cf44b75a_de6a_46dd_a2c3_23bece69ae2b"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_e308e3c0_4517_4f4b_b202_d925e827e817"/>
+        <Class IRI="#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6"/>
+        <Class IRI="#OWLClass_c9f82345_a3c9_4d98_bf25_d5b615fb9260"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_eab96c5d_407c_4b04_bb76_1e149dc50f97"/>
+        <Class IRI="#OWLClass_ca07968b_88a2_4e73_8a6b_e2c2238bcee2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f4ae899d_baed_4cf1_921d_ce2488db520e"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f72cb472_5e91_4a77_802e_5c9cf16e704b"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_fbeb45f3_3032_439a_9454_a3a6290bbf7d"/>
+        <Class IRI="#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_c8600e09_0488_44d6_833c_8215ac669682"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1c17ad10_9e8a_4401_887a_929939b80f56"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41635261_6479_4fad_baf3_55e8a5e4f648"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6549f865_6e48_4d60_9d2d_1125ec9d9449"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6caee34b_b1df_4df6_8d7c_f8a2c7f53646"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e9543b9_89d5_45d5_b238_ab0121f09e79"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e7fc6be_5db5_4dd9_a8f2_f2ff35580537"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5a9a75b_f5a4_4b25_8f36_81f468921536"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_e308e3c0_4517_4f4b_b202_d925e827e817"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dd628eca_6390_4b5c_ad68_57c4705b1a43"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e53ac716_8b30_4256_889f_27f243211dd7"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1c17ad10_9e8a_4401_887a_929939b80f56"/>
+        <Literal datatypeIRI="&xsd;string">hydrophobicity(seq,scale)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1c17ad10_9e8a_4401_887a_929939b80f56"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41635261_6479_4fad_baf3_55e8a5e4f648"/>
+        <Literal datatypeIRI="&xsd;string">charge(seq, pH, pKscale)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_41635261_6479_4fad_baf3_55e8a5e4f648"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6549f865_6e48_4d60_9d2d_1125ec9d9449"/>
+        <Literal datatypeIRI="&xsd;string">extractDC(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6549f865_6e48_4d60_9d2d_1125ec9d9449"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6caee34b_b1df_4df6_8d7c_f8a2c7f53646"/>
+        <Literal datatypeIRI="&xsd;string">lengthpep(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6caee34b_b1df_4df6_8d7c_f8a2c7f53646"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e9543b9_89d5_45d5_b238_ab0121f09e79"/>
+        <Literal datatypeIRI="&xsd;string">aindex(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_6e9543b9_89d5_45d5_b238_ab0121f09e79"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e7fc6be_5db5_4dd9_a8f2_f2ff35580537"/>
+        <Literal datatypeIRI="&xsd;string">boman(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_9e7fc6be_5db5_4dd9_a8f2_f2ff35580537"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5a9a75b_f5a4_4b25_8f36_81f468921536"/>
+        <Literal datatypeIRI="&xsd;string">mw(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_c5a9a75b_f5a4_4b25_8f36_81f468921536"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dd628eca_6390_4b5c_ad68_57c4705b1a43"/>
+        <Literal datatypeIRI="&xsd;string">hmoment(seq,angle,window)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dd628eca_6390_4b5c_ad68_57c4705b1a43"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e53ac716_8b30_4256_889f_27f243211dd7"/>
+        <Literal datatypeIRI="&xsd;string">pI(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_e53ac716_8b30_4256_889f_27f243211dd7"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f4e980a9_ef11_433f_9b24_6bac7462c5ab"/>
+        <Literal datatypeIRI="&xsd;string">instaindex(seq)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_f4e980a9_ef11_433f_9b24_6bac7462c5ab"/>
+        <Literal datatypeIRI="http://www.w3.org/2002/07/owl#real"></Literal>
+    </DataPropertyAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has definition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLAnnotationProperty_da9136f8_e9ca_4e60_b456_b93a72995dfd</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">is-computed-by</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_0180eaaf_be2e_4b44_a42d_58011b1f4266</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">standard deviation of the response</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">This the potential protein interaction index proposed
+by Boman (Boman, 2003). It is calculated as the sum of the solubility values for all residues in a
+sequence (D. Osorio and Torres, 2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_0322dd14_a433_4121_a8f6_9ced54a03df7</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">boman index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_0de4a439_56b8_4de8_8306_f7f1936061b4</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">R package Peptides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_113dc428_7f37_4930_8a37_6e84a23c409c</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">dataset meta-feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The Aliphatic index (Atsushi, 1980) is defined as the
+relative volume occupied by aliphatic side chains (Alanine, Valine, Isoleucine, and Leucine). It may be
+regarded as a positive factor for the increase of thermostability of globular proteins.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_2589a2da_a029_490d_8dad_fdabaf8ca9b7</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aliphatic index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_2696ef9f_7ad0_45f1_8d6c_e69750624afa</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The instability index was proposed by Guruprasad (1990). A protein whose instability index is smaller than 40 is predicted as stable, a value above 40 predicts that the protein may be unstable.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_2696ef9f_7ad0_45f1_8d6c_e69750624afa</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">instability index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">A number of amino acids in a protein sequence.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_350a66e7_ebab_4f29_89bb_5df6277ea9d3</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">sequence length</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_388df00e_1495_4fef_87d1_746917b1d79e</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">average standard deviation of the inputs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_562b030e_9a9e_4533_85f8_747c1a29dfb8</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target property</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The pH value at which the net electric charge of an
+elementary entity is zero. (pI is a commonly used as a symbol for this kind-of-quantity, however more
+accurate symbol is pH(I)) (Mcnaught and Wilkinson, 1997).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_62a8d42f_1ca5_4c02_9b10_3effbdb805b7</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isoelectric point</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_7107a76f_a89c_4e7c_9545_8de10c57b7e9</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">a direct natural metric between drug targets within each group or class based on the similarity of their amino-acid sequences.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_da9136f8_e9ca_4e60_b456_b93a72995dfd"/>
+        <IRI>#OWLClass_7107a76f_a89c_4e7c_9545_8de10c57b7e9</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">using the Smith-Waterman algorithm (Smith and Waterman, 1981) http://view.ncbi.nlm.nih.gov/pubmed/7265238.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7107a76f_a89c_4e7c_9545_8de10c57b7e9</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target similarity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_7594e5a0_762c_425d_9c73_e3a70938620c</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Multiple information (also called total correlation)
+among the random variables in the dataset.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7594e5a0_762c_425d_9c73_e3a70938620c</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">multiple information</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_75bc6e49_c8ca_4f8b_8ac7_4e53f0ed6cb8</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">software</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_7902dc79_c0df_41aa_8626_3788f31a3877</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The distance between two nodes in 6-level ChEMBL hierarchy tree </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_da9136f8_e9ca_4e60_b456_b93a72995dfd"/>
+        <IRI>#OWLClass_7902dc79_c0df_41aa_8626_3788f31a3877</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The R package is available at: https://github.com/meta-QSAR/simple-tree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7902dc79_c0df_41aa_8626_3788f31a3877</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target distance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_7a533afe_6aef_48b4_a1a0_cb38fedf43d5</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The ChEMBL curators have assigned each protein target a preferred name - in a robust and consistent manner, independent of the various adopted names and synonyms used elsewhere.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7a533afe_6aef_48b4_a1a0_cb38fedf43d5</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">preferred name drug target grouping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The Dipeptide Composition descriptor (Xiao et al.,
+2015; Bhasin and Raghava, 2004) captures information about the fraction and local order of amino acids.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7de5d5b8_0d50_4c54_9409_d35bfab815e8</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">dipeptide composition descriptor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_81cda4fa_0156_4d91_b461_70d5f0494dc7</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target grouping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_832dba85_aaed_4595_8d7f_1fdd665afbf4</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">average root mean squared error</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_8b0b2737_12bf_4a22_9923_08266b6b809b</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mean of the response variable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_8fcad5ec_f760_44ae_a8e2_56b5b742b7a0</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral"> curated family hierarchy of protein targets manually classified by the ChEMBL database curators</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_8fcad5ec_f760_44ae_a8e2_56b5b742b7a0</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target class</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_a5d454f3_0286_47cc_a33c_6005e7a70071</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">landmarking feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_ad4c8132_ec4c_42d0_897a_e6029d3f48df</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">normalised entropy of the response variable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_bc03c273_1a1a_41d5_9b2d_36a3bee256b5</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Normalised entropy of the features which is the class
+entropy divided by log(n) where n is the number of the features.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_bc03c273_1a1a_41d5_9b2d_36a3bee256b5</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">normalised entropy</Literal>
+    </AnnotationAssertion>
+  
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c02914d5_cf21_4f34_b65a_5df40357712d</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">normalised entropy of the features</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_c8600e09_0488_44d6_833c_8215ac669682</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Hydrophobicity is the association of non-polar groups or molecules in an aqueous environment which arises from the tendency of water to exclude non-polar molecules </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_da9136f8_e9ca_4e60_b456_b93a72995dfd"/>
+        <IRI>#OWLClass_c8600e09_0488_44d6_833c_8215ac669682</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">hydrophobicity(seq,sclae)
+R package Peptides</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#OWLClass_c8600e09_0488_44d6_833c_8215ac669682</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">IUPAC</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c8600e09_0488_44d6_833c_8215ac669682</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hydrophobicity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c9f82345_a3c9_4d98_bf25_d5b615fb9260</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">meta-qsar feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_ca07968b_88a2_4e73_8a6b_e2c2238bcee2</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">algorithm performance measure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_ca159d1a_65c2_40e8_9ac3_1cf620cf8635</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">R package ProtR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Ratio of the mass of a molecule to the unified atomic
+mass unit. Sometimes called the molecular weight or relative molar mass (Mcnaught and Wilkinson, 1997).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_cac6ca73_193e_4b37_92d8_768638798bdc</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">molecular weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_cf44b75a_de6a_46dd_a2c3_23bece69ae2b</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">kurtosis of the response variable</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The theoretical net charge of a protein sequence as
+described by Moore (Moore, 1985).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_dc6c2059_4f35_4452_bc5c_797937f75072</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">net charge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_e308e3c0_4517_4f4b_b202_d925e827e817</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hydriphobic moment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_e5106b85_83a1_4f22_b2f2_133a8870b2c6</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">drug target meta-feature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_eab96c5d_407c_4b04_bb76_1e149dc50f97</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">estimated performances of regression algorithm on the data</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_f4ae899d_baed_4cf1_921d_ce2488db520e</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Mutual information between nominal attributes X and
+Y. Describes the reduction in uncertainty of Y due to the knowledge of X, and leans on the conditional
+entropy H(Y X).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_f4ae899d_baed_4cf1_921d_ce2488db520e</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">mutual information</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_f72cb472_5e91_4a77_802e_5c9cf16e704b</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">average mean of the inputs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#OWLAnnotationProperty_0d613f80_4660_4980_a560_817bea9165e0"/>
+        <IRI>#OWLClass_fbeb45f3_3032_439a_9454_a3a6290bbf7d</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Aggregated fingerprints and normalized over the
+number of instances in the dataset.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_fbeb45f3_3032_439a_9454_a3a6290bbf7d</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aggregated fingerprint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLDataProperty_6b1d4366_ae67_47d9_b356_0851109ab5e1</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">computed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLDataProperty_7c86b259_d1e7_4b87_9802_13a9123894eb</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has-value</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_1c17ad10_9e8a_4401_887a_929939b80f56</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hydrophobicity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_41635261_6479_4fad_baf3_55e8a5e4f648</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">net charge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_6549f865_6e48_4d60_9d2d_1125ec9d9449</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">dipeptide composition descriptor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_6caee34b_b1df_4df6_8d7c_f8a2c7f53646</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">sequence length</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_6e9543b9_89d5_45d5_b238_ab0121f09e79</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">aliphatic index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_9e7fc6be_5db5_4dd9_a8f2_f2ff35580537</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">boman index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_c5a9a75b_f5a4_4b25_8f36_81f468921536</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">molecular weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_dd628eca_6390_4b5c_ad68_57c4705b1a43</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">hydriphobic moment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_e53ac716_8b30_4256_889f_27f243211dd7</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">isoelectric point</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_f4e980a9_ef11_433f_9b24_6bac7462c5ab</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">instability index</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_6fe8748c_0ff0_4c96_b8ca_96abdac07e9a</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">computes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_edaf1ddc_346b_467c_990e_794e6af20324</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">has-part</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
