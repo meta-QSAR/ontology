@@ -1,4 +1,4 @@
-EXACT
+metaQSAR
 =====
 
 An ontology for the meta-qsar project
